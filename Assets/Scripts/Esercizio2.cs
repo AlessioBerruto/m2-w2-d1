@@ -13,6 +13,6 @@ public class Esercizio2 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        // debug.log ("hello world!");
     }
 }
